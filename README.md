@@ -22,6 +22,7 @@ Tu objetivo será crear una Interfaz Grafica absurdamente incomoda, frustrante y
 - Este repositorio será revisado por los jueces al termino de la competencia: *Martes 19 Agosto - 23:59*
 - Link Deploy = [Remplazar por el link donde tenga hosteada su UI]
 
----
+## HALLOOOOO
+- Hicimos todo en python, el codigo se llama FInal.py, en la carpeta se explica un poco más de él, gracias :D
 
 ¡Buena suerte ~~buen~~ mal diseñador/a 🧑🏻‍🎨👨🏻‍🎨!
