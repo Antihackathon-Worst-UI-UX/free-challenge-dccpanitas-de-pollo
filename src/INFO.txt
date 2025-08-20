@@ -1,0 +1,2 @@
+El programa se corre desde la terminal y el archivo final se llama FInal.py, para su correcto funcionamiento, es ideal que se corra desde la carpeta en la terminal y con la extensión Tkinter.
+Muchas gracias por su atención :D
